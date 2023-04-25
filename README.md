@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Loser</h1>
 <h3 align="center">A passionate C++ developer from Pakistan</h3>
 
+![download](https://user-images.githubusercontent.com/125175895/234198483-abf56911-c2ac-452d-8dd6-8f2f0dfd1ebc.jpg)
+
 - 🔭 I’m currently working on **C++**
 
 - 🌱 I’m currently learning **Web Desiging**
