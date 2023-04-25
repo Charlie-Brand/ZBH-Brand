@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Loser</h1>
 <h3 align="center">A passionate Python developer from Pakistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zbh-team&label=Profile%20views&color=0e75b6&style=flat" alt="zbh-team" /> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ZBH-Brand&label=Profile%20views&color=0e75b6&style=flat" alt="zbh-team" /> </p>
 
 - 🔭 I’m currently working on **Python Coding**
 
@@ -20,8 +21,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Loser"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Loser" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zbh-team&show_icons=true&locale=en&layout=compact" alt="zbh-team" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ZBH-Brand&show_icons=true&locale=en&layout=compact" alt="zbh-team" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zbh-team&show_icons=true&locale=en" alt="zbh-team" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ZBH-Brand&show_icons=true&locale=en" alt="zbh-team" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zbh-team&" alt="zbh-team" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zbh-team&" alt="ZBH-Brand" /></p>
